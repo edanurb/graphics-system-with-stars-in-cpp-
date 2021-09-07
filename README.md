@@ -1,4 +1,4 @@
-# graphics-system-with-stars-in-cpp-
+
 ## Functions:
 - **DispWindow w(n,m) -->** dynamically creates an area of size n by m on the screen. <br>
 **w.current()** has a current position. Initially, current is Point(0,0) <br>
